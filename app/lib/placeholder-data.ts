@@ -98,6 +98,7 @@ const invoices = [
     date: '2023-06-09',
   },
   {
+
     customer_id: customers[4].id,
     amount: 1250,
     status: 'paid',
